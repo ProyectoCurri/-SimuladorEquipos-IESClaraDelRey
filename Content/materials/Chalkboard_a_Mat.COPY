@@ -1,0 +1,26 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="Chalkboard_a_Mat"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=EFDD7AF9421410022AF486A885671700
+   Parent=Material'"/Game/EF_MollyGreg/Common/MasterMaterial/Master_Props_Mat.Master_Props_Mat"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="BaseColor"),ParameterValue=Texture2D'"/Game/EF_MollyGreg/Shared/GenericPropsInterior/Chalkboard/Chalkboard_a_c.Chalkboard_a_c"',ExpressionGUID=4FC1C9594299F4EEA1D9F6A15FDCAA03)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Normal"),ParameterValue=Texture2D'"/Game/EF_MollyGreg/Shared/GenericPropsInterior/Chalkboard/Chalkboard_a_n.Chalkboard_a_n"',ExpressionGUID=189F54794D5A51EDB40F22B2EBD1EFF8)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Roughness"),ParameterValue=Texture2D'"/Game/EF_MollyGreg/Shared/GenericPropsInterior/Chalkboard/Chalkboard_a_r.Chalkboard_a_r"',ExpressionGUID=4F556DED4A7FCBF779FA178FEC43CE03)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=64B09FEB4CA8BB7B8FE4E0AE81D98BE6
+   ReferencedTextureGuids(1)=E1128E1D49D11238E9684285CC9DD468
+   ReferencedTextureGuids(2)=0D0FC5E841F484DB9B8D8E9441C3CA2C
+   CachedReferencedTextures(0)=None
+   CachedReferencedTextures(1)=Texture2D'"/Engine/EngineMaterials/FlatNormal.FlatNormal"'
+   CachedReferencedTextures(2)=Texture2D'"/Game/EF_MollyGreg/Common/MasterMaterial/DefaultTextures/White.White"'
+   CachedReferencedTextures(3)=Texture2D'"/Game/EF_MollyGreg/Common/MasterMaterial/DefaultTextures/Black.Black"'
+   CachedReferencedTextures(4)=Texture2D'"/Game/EF_MollyGreg/Common/MasterMaterial/DefaultTextures/Test_c.Test_c"'
+   CachedReferencedTextures(5)=Texture2D'"/Game/EF_MollyGreg/Common/MasterMaterial/DefaultTextures/Grey50.Grey50"'
+   CachedReferencedTextures(6)=Texture2D'"/Game/EF_MollyGreg/Common/MasterMaterial/DefaultTextures/Neutral_N.Neutral_N"'
+   CachedReferencedTextures(7)=Texture2D'"/Game/EF_MollyGreg/Common/Materials/DetailTextures/DetailNormal_a.DetailNormal_a"'
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=0456214042ED810E724D73A1CF1AAC37
+End Object
